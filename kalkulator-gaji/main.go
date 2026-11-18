@@ -40,4 +40,5 @@ func main() {
 	p := inputGaji()
 	fmt.Println("Total gaji: Rp", hitungGaji(p))
 
+
 }
