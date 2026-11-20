@@ -77,3 +77,5 @@ select karyawan.nama, departemen.bidang
 from karyawan
 join departemen
 on karyawan.id = departemen.id;
+
+---testing
